@@ -1,9 +1,9 @@
-## Hi, I'm Blujag
-<h3 align="center">Defi enthusiast</h3>
+<h1>Hi, I'm Blujag</h1>
+<h3 align="center">Technology enthusiast</h3>
 <h3 align="left">Connect with me :</h3>
 <p align="left">
-<a href="https://x.com/hato_tom" target="blank"><img align="center" src="https://github.com/simple-icons/simple-icons/blob/1fd47d646b1d0a8f91ee5a5cfb89f9ad81d2d572/icons/x.svg" alt="X" height="40" width="40" /></a>
-<a href="https://debank.com/profile/0xecc25cEA153e38052CE8485F05fD5362cDfE569b" target="blank"><img align="center" src="https://github.com/DeBankDeFi/logo/blob/6185583a14e9189c9ec508f1659dbeebaed6f4a0/DeBank/debank-icon.png" alt="Debank" height="40" width="40" /></a>
+<a href="https://x.com/hato_tom" target="blank"><img align="center" src="https://github.com/blujag/icons/blob/b6c316264c301b0e55e0a3f2af69cebf1fc9047e/x.jpg" alt="X" height="40" width="40" /></a>
+<a href="https://debank.com/profile/0xecc25cEA153e38052CE8485F05fD5362cDfE569b" target="blank"><img align="center" src="https://github.com/blujag/icons/blob/b6c316264c301b0e55e0a3f2af69cebf1fc9047e/debank.jpg" alt="Debank" height="40" width="40" /></a>
 </p>
 
 <!--
